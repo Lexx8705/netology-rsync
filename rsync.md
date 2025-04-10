@@ -17,6 +17,13 @@
 - Резервная копия размещается локально, в директории `/tmp/backup`
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
+![image](https://github.com/user-attachments/assets/0bf4c2d0-cef7-46c4-949c-7b454c6d34ac)
+
+![image](https://github.com/user-attachments/assets/6506dbce-47d5-4ee6-a596-9a27dcfce9c2)
+
+![image](https://github.com/user-attachments/assets/11b0aedf-3aae-46b2-916d-f9adab67bd97)
+
+
 
 ---
 
